@@ -1,0 +1,6 @@
+[submodule "libs19"]
+	path = libs19
+	url = https://github.com/8bitgeek/libs19.git
+[submodule "libemu816"]
+	path = libemu816
+	url = https://github.com/8bitgeek/libemu816.git
